@@ -8,10 +8,10 @@
   color: #fff;
 }
 
-.header a{
-  color:#fff
+.header a {
+  color: #fff;
 }
-  
+
 .content {
   display: flex;
   flex-direction: column;
@@ -25,38 +25,37 @@
 
 .gretting-text {
   height: 124px;
-    margin-bottom: 1.9em;
+  margin-bottom: 1.9em;
 }
-  
+
 .gretting-text h1 {
   color: #ff6b00;
   font-size: 56px;
   line-height: 64px;
   letter-spacing: 0.37px;
 }
-  
+
 .description {
   color: #fff;
 }
-  
+
 .description h2 {
   font-size: 24px;
   font-family: "Roboto";
   font-weight: 700;
-  font-size: 24px;
   line-height: 32px;
 }
-  
+
 .social-networks-block {
   display: flex;
   margin-top: 0.5em;
 }
-  
+
 .social-networks-block img {
   margin-right: 10px;
   width: 17.99px;
   height: 20px;
-  color:#dbd8d7
+  color: #dbd8d7;
 }
 
 .social-networks-block li {
@@ -69,4 +68,3 @@
   font-size: 16px;
   line-height: 24px;
 }
-  
