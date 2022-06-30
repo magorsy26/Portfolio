@@ -7,6 +7,7 @@
   padding-right: 20px;
   color: #fff;
 }
+
 .content {
   display: flex;
   flex-direction: column;
@@ -17,22 +18,27 @@
   padding-left: 5%;
   padding-right: 5%;
 }
+
 .gretting-text span {
   color: #ff6b00;
   font-size: 56px;
   line-height: 64px;
   letter-spacing: 0.37px;
 }
+
 .description {
   color: #fff;  
 }
+
 .description b {
   font-size: 24px;
 }
+
 .social-networks-block {
   display: flex;
   margin-top: 0.5em;
 }
+
 .social-networks-block img {
   margin-right: 10px;
   width: 18px;
