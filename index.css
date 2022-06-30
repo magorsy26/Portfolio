@@ -1,5 +1,4 @@
 .header {
-  
   background-color: #3c3a39;
   display: flex;
   justify-content: space-between;
@@ -9,7 +8,6 @@
   color: #fff;
 }
 .content {
-  
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -20,27 +18,22 @@
   padding-right: 5%;
 }
 .gretting-text span {
-  
   color: #ff6b00;
   font-size: 56px;
   line-height: 64px;
   letter-spacing: 0.37px;
 }
 .description {
-  
   color: #fff;  
 }
 .description b {
-  
   font-size: 24px;
 }
 .social-networks-block {
-  
   display: flex;
   margin-top: 0.5em;
 }
 .social-networks-block img {
-  
   margin-right: 10px;
   width: 18px;
   height: 20px;
