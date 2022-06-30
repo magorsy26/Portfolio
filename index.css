@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header {
+    background-color: #3C3A39;
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:white;
+}
+.header div {
+
+}
+.content {
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    padding-top: 20%;
+    background: #1C1A19;
+    height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.gretting-text {
+    /*text-align: center;*/
+}
+.gretting-text span {
+    color: #FF6B00;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 0.37px;
+    
+}
+.description {
+    color: #fff;
+    
+}
+.description b {
+    font-size: 24px;
+}
+.social-networks-block {
+    display: flex;
+    margin-top: 0.5em;
+}
+.social-networks-block img {
+    margin-right: 10px;
+    width: 18px;
+    height: 20px;
+}
