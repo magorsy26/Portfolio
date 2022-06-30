@@ -41,7 +41,7 @@
 
 .description h2 {
   font-size: 24px;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;;
   font-weight: 700;
   line-height: 32px;
 }
@@ -63,7 +63,7 @@
 }
 
 .description p {
-  font-family: "Poppins";
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
