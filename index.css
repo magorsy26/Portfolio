@@ -72,8 +72,8 @@
 
 .achivement {
   width: 90%;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .recent {
@@ -90,7 +90,7 @@
   display: grid;
 }
 
-.storie h2{
+.storie h2 {
   font-family: 'Crete Round', sans-serif;
   font-weight: 400;
   font-size: 32px;
@@ -102,7 +102,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #091e42
+  color: #091e42;
 }
 
 .tools {
@@ -146,7 +146,7 @@
 
 .button:disabled {
   background-color: #5b5957;
-  border:0px;
+  border: 0px solid #fff;
 }
 
 .art {
@@ -154,12 +154,11 @@
   flex-direction: column;
   justify-content: space-between;
   background-image: url("images/art.png");
-  /*background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%);*/
   width: 327px;
   height: 386px;
 }
 
-.art h2{
+.art h2 {
   width: 295px;
   height: 81;
   margin-top: 8px;
@@ -178,10 +177,9 @@
   line-height: 24px;
   color: #fff;
 }
- 
+
 .tools1 {
   display: flex;
-
 }
 
 .tools1 li {
@@ -192,7 +190,6 @@
   background: #FFFFFF3D;
   padding: 10px;
   text-align: center;
-
 }
 
 article {
@@ -232,7 +229,7 @@ article {
 }
 
 .lang {
-  color:#fff;
+  color: #fff;
 }
 .lang li {
   list-style: none;
@@ -244,7 +241,7 @@ article {
 }
 
 .lang img {
-  width:18px;
+  width: 18px;
   height: 18px;
   margin-right: 10px;
 }
@@ -276,7 +273,7 @@ article {
 }
 
 .img2 {
-  width:200px;
+  width: 200px;
   height: 200px;
 }
 
