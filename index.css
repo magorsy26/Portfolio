@@ -146,7 +146,6 @@
 
 .button:disabled {
   background-color: #5b5957;
-  border: 0px solid #fff;
 }
 
 .art {
@@ -184,10 +183,10 @@
 
 .tools1 li {
   list-style: none;
-  color:#fff;
-  border:1px solid #fff;
+  color: #fff;
+  border: 1px solid #fff;
   margin-right: 5px;
-  background: #FFFFFF3D;
+  background: #ffffff3d;
   padding: 10px;
   text-align: center;
 }
@@ -201,7 +200,7 @@ article {
   flex-direction: column;
   align-items: stretch;
   margin-top: 20px;
-  width:100%;
+  width: 100%;
   height: 1901px;
   background-color: #1c1a19;
 }
@@ -225,12 +224,13 @@ article {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #f4f5f7
+  color: #f4f5f7;
 }
 
 .lang {
   color: #fff;
 }
+
 .lang li {
   list-style: none;
 }
@@ -244,6 +244,16 @@ article {
   width: 18px;
   height: 18px;
   margin-right: 10px;
+}
+
+.lang li ul li {
+  font-family: 'Inter', sans-serif;
+  width: 162px;
+  height: 24;
+  font-size: 22px;
+  line-height: 42.67px;
+  text-align: center;
+  font-weight: 400;
 }
 
 .lang > li:first-child {
@@ -262,23 +272,13 @@ article {
   font-family: 'InaiMathi', sans-serif;
 }
 
-.lang li ul li {
-  font-family: 'Inter', sans-serif;
-  width: 162px;
-  height: 24;
-  font-size: 22px;
-  line-height: 42.67px;
-  text-align: center;
-  font-weight: 400;
-}
-
 .img2 {
   width: 200px;
   height: 200px;
 }
 
 .block-img-group {
-  display:flex;
+  display: flex;
   justify-content: end;
   align-items: flex-start;
 }
