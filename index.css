@@ -139,6 +139,7 @@
   padding: 10px;
   margin-right: 10px;
   border: 1px solid black;
+  font-family: 'InaiMathi', sans-serif;
 }
 
 .button {
@@ -210,6 +211,7 @@
   background: #ffffff3d;
   padding: 10px;
   text-align: center;
+  font-family: 'Inter', sans-serif;
 }
 
 article {
@@ -302,4 +304,5 @@ article {
   display: flex;
   justify-content: end;
   align-items: flex-start;
+  background-image: url("images/Group.png");
 }
