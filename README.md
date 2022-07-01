@@ -10,7 +10,6 @@
 - HTML
 - CSS
 
-## Live Demo (if available)
 
 
 
@@ -20,27 +19,13 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: @magorsy26
+- GitHub: [@magorsy26](https://github.com/magorsy26)
 
 
 
