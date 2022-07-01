@@ -82,7 +82,7 @@
 }
 
 .rece {
-  display:flex;
+  display: flex;
   justify-content: center;
   text-align: center;
   margin-top: 120px;
@@ -236,7 +236,7 @@ article {
   line-height: 88px;
   letter-spacing: 0.37px;
   color: #ff6b00;
-  font-size: 72px;;
+  font-size: 72px;
 }
 
 .aboutme p {
@@ -304,7 +304,6 @@ article {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
- 
 }
 
 .block-img-group > div {
