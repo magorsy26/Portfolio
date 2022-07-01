@@ -10,6 +10,7 @@
 
 .header a {
   color: #fff;
+  text-decoration: none;
 }
 
 .content {
@@ -67,8 +68,4 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-}
-
-a {
-  text-decoration: none;
 }
