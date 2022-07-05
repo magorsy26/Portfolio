@@ -237,7 +237,7 @@ article {
   line-height: 88px;
   letter-spacing: 0.37px;
   color: #ff6b00;
-  font-size: 72px;;
+  font-size: 72px;
 }
 
 .aboutme p {
@@ -382,4 +382,12 @@ input:invalid {
   margin-right: auto;
   height: 5px;
   background: #0d151e;
+}
+
+.block-img-group > div {
+  background-image: url("images/Group.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 300px;
+  width: 200px;
 }
